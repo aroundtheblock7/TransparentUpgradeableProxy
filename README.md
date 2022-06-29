@@ -1,4 +1,4 @@
-# Project using Open Zeppelin & Hardhat to create an Upgradeable Contract 
+# Using Open Zeppelin & Hardhat to create an Upgradeable Contract 
 
 ## This project demonstrates use of the TransparentProxyUpgradeable Pattern 
 
